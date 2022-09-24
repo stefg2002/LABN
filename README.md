@@ -7,5 +7,5 @@ LabN5.v is used to test cpu.v and displays the RISC-V program.
 
 
 DISCLAIMER:
-RISC-V instruction is saved as ram.dat
-hrLib was not created by me, provided by university instructors.
+RISC-V instruction is saved as ram.dat.
+'hrLib' folder was not created by me, it was provided by university instructors.
